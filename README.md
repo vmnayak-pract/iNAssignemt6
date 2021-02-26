@@ -27,7 +27,6 @@ uppercase (e.g. "londON" should become "London".)
 from the previous questions.
 5. In the RecentDelays column, the values have been entered into the
 DataFrame as a list. We would like each first value in its own column, each
-
 second value in its own column, and so on. If there isn't an Nth value, the value
 should be NaN.
 Expand the Series of lists into a DataFrame named delays, rename the columns
